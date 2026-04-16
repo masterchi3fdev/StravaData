@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../StravaData.GUI.Test/StravaData.GUI.Test.csproj" Id="710eb1f2-01e8-4c58-913e-c837cb4a50c8" />
   <Project Path="StravaData.GUI.csproj" />
 </Solution>
